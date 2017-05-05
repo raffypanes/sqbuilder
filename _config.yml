@@ -1,7 +1,7 @@
 # Site settings
 title: SQ Values
 header-img: img/home-bg.jpg
-email: info@everynation.org.sg
+email: 
 copyright_name: Every Nation Church Singapore.
 description: "What is SQ? Think you’ve got SQ? Take a closer look."
 baseurl: "/sqvalues"
@@ -13,7 +13,7 @@ email_username:  info@everynation.org.sg
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-google_tracking_id: UA-58634068-2
+google_tracking_id: 
 
 # Build settings
 markdown: kramdown
